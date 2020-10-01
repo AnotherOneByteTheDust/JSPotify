@@ -2,5 +2,5 @@
 
 Vinyls that can be played independently. 
 
-They are created using Javascript.
+They were created using Javascript.
 
